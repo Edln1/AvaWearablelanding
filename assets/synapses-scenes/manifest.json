@@ -1,0 +1,134 @@
+{
+  "frameSize": {
+    "width": 1280,
+    "height": 720,
+    "aspect": "16:9"
+  },
+  "clipsEncoding": "H.264/libx264 medium CRF24, yuv420p,24fps, audio removed, MP4 +faststart",
+  "stillsEncoding": "JPEG q3, source frame extracted without crop; Lanczos downscale when needed",
+  "usage": "Existing Synapses commercial excerpts and frames. Describe as film excerpts/product demonstrations, not live task evidence. No invented Calendar interface and no assertion of completed outbound calls.",
+  "clips": [
+    {
+      "sourceFile": "Synapses - Five People Her and Ava - v67 Edge and Tile Fix.mp4",
+      "file": "notes-to-next-steps.mp4",
+      "film": "A familiar problem. A clearer way forward.",
+      "sourceSHA256": "00DA6F75764D2656C2C23CDF3ACBE35518B3F6CD8AB553800E0DD04020DD1593",
+      "startSeconds": 33.5,
+      "endSeconds": 40,
+      "requestedDuration": 6.5,
+      "actualDuration": 6.5,
+      "bytes": 453641,
+      "sha256": "922F3EF2A1A6131DF35A06DAB4206502983E88AED6353C89150957BB93CE20A6",
+      "poster": "notes-with-next-steps.jpg",
+      "audioStreams": 0
+    },
+    {
+      "sourceFile": "01-synapses-v14-dm-sans.mp4",
+      "file": "meet-ava-familiar-face.mp4",
+      "film": "Introducing Synapses : 01 Ava",
+      "sourceSHA256": "571A624AD91FCD2CA6EACEB5D5A82CCEE48E6E1AEE4C6AB3D997FE81023E2384",
+      "startSeconds": 27.4,
+      "endSeconds": 33.2,
+      "requestedDuration": 5.8,
+      "actualDuration": 5.791667,
+      "bytes": 276589,
+      "sha256": "5D624A4CB9026C5A4B216830368C42C6B7BFCD921E6CF05E70EC2FFAFE4E95C0",
+      "poster": "ava-familiar-face.jpg",
+      "audioStreams": 0
+    },
+    {
+      "sourceFile": "START HERE - Latest Whiteboard Ad.mp4",
+      "file": "connected-tools-whiteboard.mp4",
+      "film": "Synapses — A Little Further. Together.",
+      "sourceSHA256": "D4B787568A69B5A56285D01B26562596DF0453B73E057240A032F0976988A21A",
+      "startSeconds": 17.4,
+      "endSeconds": 23.4,
+      "requestedDuration": 6,
+      "actualDuration": 6,
+      "bytes": 307362,
+      "sha256": "A044AFC4C2438E4A94105B71306BB346C3C5B7BDD4635FD98C4B4E0DCD8DF2DE",
+      "poster": "tools-in-reach.jpg",
+      "audioStreams": 0
+    },
+    {
+      "sourceFile": "what-if.mp4",
+      "file": "ideas-grow-together.mp4",
+      "film": "Synapses — This Place Doesn't Exist. Yet.",
+      "sourceSHA256": "14B0CE83A1C5711024F157153F3B321AB0266942A6468462BD7CF914D71A3A75",
+      "startSeconds": 35,
+      "endSeconds": 43,
+      "requestedDuration": 8,
+      "actualDuration": 8,
+      "bytes": 928144,
+      "sha256": "A4A3D6A443636AF4D7E01D4C0CABCFACF99871C6EDD245B86DEE74176DF756D9",
+      "poster": "what-if-learning-together.jpg",
+      "audioStreams": 0
+    }
+  ],
+  "stills": [
+    {
+      "sourceFile": "Synapses - Five People Her and Ava - v67 Edge and Tile Fix.mp4",
+      "file": "office-over-coffee.jpg",
+      "film": "A familiar problem. A clearer way forward.",
+      "sourceSHA256": "00DA6F75764D2656C2C23CDF3ACBE35518B3F6CD8AB553800E0DD04020DD1593",
+      "sourceSecond": 3,
+      "subject": "Live-action office conversation"
+    },
+    {
+      "sourceFile": "Synapses - Five People Her and Ava - v67 Edge and Tile Fix.mp4",
+      "file": "ava-budget-conversation.jpg",
+      "film": "A familiar problem. A clearer way forward.",
+      "sourceSHA256": "00DA6F75764D2656C2C23CDF3ACBE35518B3F6CD8AB553800E0DD04020DD1593",
+      "sourceSecond": 29,
+      "subject": "Completed budget conversation with original AVA"
+    },
+    {
+      "sourceFile": "Synapses - Five People Her and Ava - v67 Edge and Tile Fix.mp4",
+      "file": "notes-with-next-steps.jpg",
+      "film": "A familiar problem. A clearer way forward.",
+      "sourceSHA256": "00DA6F75764D2656C2C23CDF3ACBE35518B3F6CD8AB553800E0DD04020DD1593",
+      "sourceSecond": 35,
+      "subject": "Actual Synapses Notes with next steps"
+    },
+    {
+      "sourceFile": "01-synapses-v14-dm-sans.mp4",
+      "file": "ava-voice-conversation.jpg",
+      "film": "Introducing Synapses : 01 Ava",
+      "sourceSHA256": "571A624AD91FCD2CA6EACEB5D5A82CCEE48E6E1AEE4C6AB3D997FE81023E2384",
+      "sourceSecond": 6,
+      "subject": "Voice waveform and A voice A conversation"
+    },
+    {
+      "sourceFile": "01-synapses-v14-dm-sans.mp4",
+      "file": "ava-familiar-face.jpg",
+      "film": "Introducing Synapses : 01 Ava",
+      "sourceSHA256": "571A624AD91FCD2CA6EACEB5D5A82CCEE48E6E1AEE4C6AB3D997FE81023E2384",
+      "sourceSecond": 31,
+      "subject": "Meet AVA portrait and familiar-face introduction"
+    },
+    {
+      "sourceFile": "START HERE - Latest Whiteboard Ad.mp4",
+      "file": "tools-in-reach.jpg",
+      "film": "Synapses — A Little Further. Together.",
+      "sourceSHA256": "D4B787568A69B5A56285D01B26562596DF0453B73E057240A032F0976988A21A",
+      "sourceSecond": 21,
+      "subject": "Whiteboard connected-tool field"
+    },
+    {
+      "sourceFile": "what-if.mp4",
+      "file": "what-if-an-idea.jpg",
+      "film": "Synapses — This Place Doesn't Exist. Yet.",
+      "sourceSHA256": "14B0CE83A1C5711024F157153F3B321AB0266942A6468462BD7CF914D71A3A75",
+      "sourceSecond": 7,
+      "subject": "Illustrated What if idea and planet"
+    },
+    {
+      "sourceFile": "what-if.mp4",
+      "file": "what-if-learning-together.jpg",
+      "film": "Synapses — This Place Doesn't Exist. Yet.",
+      "sourceSHA256": "14B0CE83A1C5711024F157153F3B321AB0266942A6468462BD7CF914D71A3A75",
+      "sourceSecond": 43,
+      "subject": "Illustrated people learning together"
+    }
+  ]
+}
